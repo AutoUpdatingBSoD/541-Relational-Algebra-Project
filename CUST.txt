@@ -1,0 +1,596 @@
+ID~NAME~CUSTTYPE~CREDITLIMIT~BALANCE~ADDRESS~CITY~STATE~ZIPCODE~AREACODE~PHONE
+315~Lloyd, Greg G.~R~49000~0~24 5th St.~Philadelphia~PA~12543~963~945-9855
+480~Sevrin, Dan D.~W~98000~0~54 Fairfax Way~San Diego~CA~90875~369~564-5264
+352~McNulty, Mark J.~R~49000~0~P.O. Box 985~Los Angeles~CA~90786~741~393-9856
+223~Hallwarrk, Brandon s.~W~98000~417778.9~4321 Hail Dr.~Dallas~TX~76452~456~346-9856
+376~Murphy, Sean W.~R~49000~0~541 Baer St.~Miami~FL~45632~987~789-4678
+316~Logston, Chuck J.~R~49000~0~5421 Health Dr.~Los Angeles~CA~90786~741~423-9112
+490~Simpson, Scott T.~W~98000~0~6453 Dawson Way~Phoenix~AZ~89075~985~785-8941
+530~Taylor, Thelma G.~R~49000~0~543 Hinder Ln.~New York~NY~09764~852~378-9124
+145~Elway, John J.~W~98000~0~7654 Institute Dr.~Radford~VA~24241~540~998-6916
+187~Gearheardt, Kyle S.~W~98000~0~9989 Konney Ct.~Dallas~TX~76452~456~556-9969
+251~Hoying, Bobby L.~W~98000~255345.86~531 Thomas Dr.~Tampa~FL~46578~897~346-9856
+488~Simons, George S.~W~278000~0~531 Thomas Dr.~Roanoke~VA~24140~541~239-0478
+470~Sanchez, Salvador~W~98000~91118.44~2121 Madison St.~Roanoke~VA~24140~541~564-5264
+538~Timmons, Steve J.~W~98000~0~7654 Lambert Ct.~Miami~FL~45632~987~548-1547
+568~Webster, Mike T.~R~49000~0~325 Peters Ferry Dr.~Los Angeles~CA~90786~741~498-3719
+289~Kelly, Jin J.~W~98000~0~3466 Walton St.~Radford~VA~24241~540~423-9112
+413~Piet, John B.~R~49000~0~432 Ferris Rd.~Tampa~FL~46578~897~445-1236
+285~Kamm, Brian N.~W~98000~0~6543 Cuckoo Dr.~Memphis~TN~34567~423~633-9852
+333~Marino, Dan D.~W~98000~322135.8~324 Docker Street~Philadelphia~PA~12543~963~393-9856
+572~Westbrook, J.J. B.~W~98000~0~253 Paw Ln.~Knoxville~TN~32567~704~387-9147
+16~Armstrong, Henry H.~R~49000~0~456 West Brook Dr.~Miami~FL~45632~987~589-9854
+380~Nelson, Larry W.~R~49000~0~764 Justin Dr.~Roanoke~VA~24140~541~656-9914
+373~Mumper, Henry G.~R~49000~0~3421 Rubber Rd.~St. Louis~MO~56433~147~556-9858
+286~Kaye, Jonathan L.~R~49000~0~4308 Snyder Lookout Rd.~Miami~FL~45632~987~489-9851
+192~Gibson, Kelly S.~R~49000~0~6743 Lawson Way~San Diego~CA~90875~369~964-9855
+339~Mayfair, Billy N.~R~49000~0~653 Max Dr.~Memphis~TN~34567~423~945-9855
+460~Roth, David L.~W~98000~0~567 Gooley Dr.~Los Angeles~CA~90786~741~789-9856
+196~Glasson, Bill L.~R~49000~0~432 Dixon Dr.~Miami~FL~45632~987~645-9995
+40~Bennett, Edgar S.~R~49000~0~543 Hinder Ln.~Phoenix~AZ~89075~985~478-9854
+495~Smith, Emmitt E.~R~49000~0~45 Brick Ln~Philadelphia~PA~12543~963~249-3489
+2~Adams, John J.~R~49000~0~Rt. 2 Box 2~Roanoke~VA~24140~541~456-9856
+4~Aikman, Troy T.~R~49000~0~899 Rosemont Dr.~Phoenix~AZ~89075~985~447-9854
+189~George, Eddie G.~R~49000~0~9989 Konney Ct.~Philadelphia~PA~12543~963~556-9969
+474~Sanders, Reggie R.~R~49000~0~4906 Minton Dr.~Houston~TX~75498~256~564-5264
+83~Carter, Jimmy D.~W~98000~0~5234 Woolley Dr.~Atlanta~GA~34567~258~546-8799
+524~Sullivan, Mike S.~R~69000~0~5421 Health Dr.~Roanoke~VA~24140~541~378-9124
+81~Carney, John J.~W~98000~0~532 Ely St.~Philadelphia~PA~12543~963~555-1212
+563~Warren, Chris C.~R~49000~0~432 Futon St.~Akron~OH~45623~652~498-3719
+232~Hayes, Jay P.~W~98000~440712.86~5456 Hinkley St.~Miami~FL~45632~987~349-3214
+260~Irwin, Hale D.~R~49000~0~716 Wood Ln.~New York~NY~09764~852~731-9658
+150~Evertt, Chris S.~R~49000~0~232 Eastwood Ln.~Houston~TX~75498~256~559-9877
+94~Claar, Blair D.~R~49000~0~547 Brinkman Rd.~Phoenix~AZ~89075~985~147-9854
+101~Clinton, Bill S.~R~49000~0~894 Hembree St.~Atlanta~GA~34567~258~555-1212
+166~Ford, Scott F.~W~98000~0~543 Seadoo Blvd.~Phoenix~AZ~89075~985~965-9853
+71~Buckley, Terril D.~R~49000~0~567 Kicker Dr.~Tampa~FL~46578~897~412-9833
+309~Leonard, Kip L.~R~49000~23900~6787 Honey Dr.~Austin~TX~75689~655~423-9112
+527~Taylor, Chance R.~R~49000~0~543 Kinenman Way~Akron~OH~45623~652~378-9124
+407~Perez, Carlos~R~49000~0~544 E. 34 St.~Atlanta~GA~34567~258~445-1236
+246~Hogan, Hulk G.~R~49000~0~4349 Madison St.~San Diego~CA~90875~369~346-9856
+564~Watson, Tom K.~W~98000~0~8753 Bear Dr.~Houston~TX~75498~256~498-3719
+385~Norman, Greg G.~R~49000~0~433 Buckshot Dr.~Dallas~TX~76452~456~445-1236
+58~Brian, Doug D.~W~98000~0~456 Street I~Phoenix~AZ~89075~985~626-2556
+506~Spreewell, Latrell J.~W~98000~0~716 Bear Ln~Roanoke~VA~24140~541~249-3489
+560~Walker, Herschal D.~W~98000~0~321 Chicken St.~Roanoke~VA~24140~541~498-3719
+308~Leonard, Benny S.~W~98000~0~54 Cook St.~Roanoke~VA~24140~541~423-9112
+215~Grissom, Marquis E.~W~98000~0~6543 Clement St.~Tampa~FL~46578~897~556-9969
+240~Heyward, Craig I.~W~98000~0~609 Barker St.~Houston~TX~75498~256~346-9856
+340~Mays, Alvoid G.~R~49000~0~3456 RobinHood Dr.~Miami~FL~45632~987~248-1344
+454~Romero, Edwardo L.~R~49000~0~4356 Poplar Rd.~Phoenix~AZ~89075~985~789-4523
+1~Acosta, Joe L.~W~98000~0~4 Kilkea Circle~Radford~VA~24241~540~478-6955
+359~Miller, Bob T.~R~49000~0~543 West Dr.~Tampa~FL~46578~897~393-9856
+396~Pate, Jerry O.~R~49000~479308~988 Link Rd.~Norfolk~VA~23456~804~656-9914
+561~Walker, Mickey S.~R~49000~0~8907 Cookie Way~Austin~TX~75689~655~498-3719
+571~Welsh, Freddie B.~W~98000~0~21 Suave Rd.~St. Louis~MO~56433~147~498-3719
+372~Mudd, Jodie L.~R~49000~0~8532 Chesnut Ln.~San Diego~CA~90875~369~556-9858
+461~Rummels, Dave G.~W~98000~312690.56~543 Barker St.~Atlanta~GA~34567~258~789-9856
+268~James, Mark M.~R~49000~0~765 Lee St.~Miami~FL~45632~987~324-6571
+84~Carter, Kijana L.~R~49000~0~5423 N. Main St.~San Diego~CA~90875~369~546-8799
+415~Pohl, Dan S.~W~98000~0~4398 Parker Dr., Apt 3T~Radford~VA~24241~540~457-9173
+503~Smith, Robert A.~R~49000~0~9014 Clinton St.~Tampa~FL~46578~897~239-0478
+141~Elam, Jason D.~R~49000~0~5323 Epson Dr.~Memphis~TN~34567~423~654-9899
+36~Beck, Chip S.~W~98000~0~599 Sax Ct.~Norfolk~VA~23456~804~478-6955
+262~Ismail, Raghib N.~R~49000~101946~499 Hilly Dr.~Los Angeles~CA~90786~741~731-9658
+256~Huston, John D.~R~49000~0~543 West Dr.~Phoenix~AZ~89075~985~358-9811
+395~Pasqual, Perez~W~98000~0~543 Seadoo Blvd.~Tampa~FL~46578~897~656-9914
+37~Bednarik, Jen L.~W~98000~0~643 Highway 354~Radford~VA~24241~540~412-9833
+482~Sheets, Mike D.~W~98000~0~655 University Pky.~Knoxville~TN~32567~704~789-9856
+584~Wolgst, Ad B.~R~49000~0~8753 Bear Dr.~Atlanta~GA~34567~258~129-9858
+520~Stoyanovich, Pete B.~W~98000~0~509 Shower Dr.~Miami~FL~45632~987~358-4502
+162~Flowers,Tiger~W~98000~0~432 Skinner Dr.~Norfolk~VA~23456~804~559-9877
+483~Shively, Steve S.~R~49000~0~342 Lips Ln.~Memphis~TN~34567~423~564-5264
+153~Faulk, Marshall M.~W~98000~0~543 Cooley St.~Philadelphia~PA~12543~963~998-6916
+330~Mahaffey, John R.~W~98000~596844.5~576 Hemingway Ln~Houston~TX~75498~256~945-9855
+583~Wohlers, Mark H.~W~198000~0~54 Cook St.~Los Angeles~CA~90786~741~129-9858
+353~Means, Natrone M.~R~49000~0~6534 Brickyard Rd.~Atlanta~GA~34567~258~393-9856
+394~Parton, Dolly D.~R~49000~0~5423 Lebasa Ln.~Miami~FL~45632~987~456-4564
+317~Lohmiller, Chip C.~W~98000~0~54 Parker Dr.~Atlanta~GA~34567~258~423-9112
+73~Burman, Chris A.~W~98000~0~654 Carson Dr.~Radford~VA~24241~540~555-1212
+27~Bakhas, David D.~W~98000~0~6543 Cunker Trailer Ct.~Philadelphia~PA~12543~963~452-6969
+118~Davis, Eric S.~W~98000~0~5432 Pulaski Dr.~Los Angeles~CA~90786~741~456-9855
+336~Martin, Doug D.~R~49000~0~4532 Madison Heights~San Diego~CA~90875~369~945-9855
+557~Walbring, D.A. B.~R~49000~0~543 Mason Dr.~Tampa~FL~46578~897~387-9147
+151~Faldo, Nick K.~R~59000~0~654 Misty Bottom Dr.~Dallas~TX~76452~456~998-6916
+233~Hearns, Tommy K.~R~49000~0~4321 Cicley Pl.~Tampa~FL~46578~897~445-9966
+303~Larkin, Barry B.~W~98000~0~541 Baer St.~Memphis~TN~34567~423~639-8741
+152~Farque, Greg S.~R~49000~0~433 Catron Dr.~New York~NY~09764~852~559-9877
+190~George, Jeff J.~R~49000~0~32 Martin St.~Los Angeles~CA~90786~741~964-9855
+210~Green, Harold H.~W~98000~0~988 Link Rd.~San Diego~CA~90875~369~556-9969
+466~Saddler,Sandy~R~49000~0~5343 Anaconda Pl.~Miami~FL~45632~987~982-4545
+356~Metzalaars, Pete D.~R~49000~0~895 Burlington~Knoxville~TN~32567~704~945-9855
+116~Cunningham, Randall L.~W~98000~0~5411 Dasher Dr.~New York~NY~09764~852~456-9855
+532~Tewell, Jay L.~R~49000~0~432 Chesnut Dr.~Los Angeles~CA~90786~741~378-9124
+287~Keen, Jarrod J.~W~98000~239492.4~544 Doppler Ct.~Tampa~FL~46578~897~633-9852
+494~Sluman, Steve G.~R~49000~0~54 Harry Lane~New York~NY~09764~852~239-0478
+558~Walcott, Jersey J.~W~98000~0~9881 Hinkley Dr.~Norfolk~VA~23456~804~387-9147
+249~Hopkins, Chris T.~W~98000~0~654 Barry Lane~Memphis~TN~34567~423~346-9856
+497~Smith, Joe K.~R~49000~0~6542 Video Dr.~Atlanta~GA~34567~258~239-0478
+164~Floyd, William W.~R~49000~0~4231 Dock Rd.~Roanoke~VA~24140~541~998-6916
+465~Saddler, Sandy S.~W~98000~0~432 Coper Ln.~Memphis~TN~34567~423~789-9856
+53~Boros, Guy D.~R~49000~0~5423 Ridgemont Dr.~Tampa~FL~46578~897~452-6969
+521~Strange, Curtis S.~R~49000~0~4316 Parker Dr., Apt 3S~Tampa~FL~46578~897~249-3489
+269~James, Mark P.~R~49000~0~3221 Clark Blvd.~Tampa~FL~46578~897~731-9658
+485~Sienfeld, Jerry S.~R~179000~240504~5432 W. Main St.~Tampa~FL~46578~897~564-5264
+501~Smith, Richard L.~R~49000~0~34 Faring Way~Memphis~TN~34567~423~239-0478
+525~Sutton, Hal L.~R~49000~0~4532 Peacock Ln.~Austin~TX~75689~655~378-9124
+325~Love, Davis D.~R~49000~0~654A Coper Dr.~Radford~VA~24241~540~393-9856
+427~Pride, Dick F,~W~98000~0~653 Max Dr.~St. Louis~MO~56433~147~442-9852
+312~Lewis, Larry L.~R~49000~0~432 Dixon Dr.~Houston~TX~75498~256~423-9112
+61~Britton, Bill L.~R~49000~0~321 Hello Ln.~Dallas~TX~76452~456~546-8799
+248~Holtz, Lou D.~R~49000~339372~542 Blossom Dr.~Knoxville~TN~32567~704~445-9966
+149~Evans, Chick S.~R~49000~0~432 Hello Dr.~Akron~OH~45623~652~559-9877
+537~Tiger, Dick B.~R~49000~0~544 Brewster Lane~Memphis~TN~34567~423~378-9124
+62~Britton, Jack~W~98000~0~6543 Jones Dr.~New York~NY~09764~852~412-9833
+408~Perry, Chris D.~R~49000~0~5432 Station Dr.~San Diego~CA~90875~369~445-1236
+106~Conner, Hiedi H.~R~49000~0~432 Cave Pl.~Miami~FL~45632~987~654-3210
+221~Hagler, Marvin P.~R~49000~0~432 Futon St.~Akron~OH~45623~652~445-9966
+51~Bono, Sonny D.~R~49000~0~9345 Holton Ln.~Memphis~TN~34567~423~452-6969
+416~Polk, James S.~W~98000~0~325 Peters Drive~Roanoke~VA~24140~541~442-9852
+487~Simmons, Scott E.~R~49000~0~6532 Cooter Ct.~Radford~VA~24241~540~249-3489
+88~Champion, Donald E.~W~98000~0~5432 Mason Dr.~Miami~FL~45632~987~654-6513
+253~Hulbert, Mike D.~R~49000~0~543 Burlington~Radford~VA~24241~540~633-9852
+566~Watts, Brian S.~R~49000~12930~6909 Cookie St.~New York~NY~09764~852~498-3719
+418~Poole, Stephen S.~W~98000~0~4334 Parker Dr., Apt 3R~Phoenix~AZ~89075~985~789-9451
+313~Lietzke, Bruce D.~R~49000~0~6532 Cooter Ct.~Dallas~TX~76452~456~945-9855
+21~Austin, Woody Y.~R~119000~0~4488 Back Dr.~Austin~TX~75689~655~478-6955
+10~Anderson, Clair D.~W~98000~0~432 Randolph St~Los Angeles~CA~90786~741~456-9856
+360~Miller, William S.~R~49000~0~2872 Cubbage Rd.~Norfolk~VA~23456~804~393-9856
+28~Balboa, Rocky J.~W~98000~0~23545 Cumberland St.~Los Angeles~CA~90786~741~478-6955
+573~Westbrook, Michael M.~R~49000~0~5323 Poker Dr.~Memphis~TN~34567~423~498-3719
+34~Baumgardner, Bruce S.~W~98000~0~8589 Blakemore St.~Miami~FL~45632~987~659-9856
+177~Furman, Mark D.~W~98000~0~653 Hinker Dr.~Memphis~TN~34567~423~998-6916
+344~McCumber, Mark D.~R~49000~0~433 Catron Dr.~Roanoke~VA~24140~541~393-9856
+403~Pelfrey, Doug D.~R~49000~0~675 Ramey Blvd.~Dallas~TX~76452~456~442-9852
+516~Stockton, Don E.~W~98000~0~34 Free Way~San Diego~CA~90875~369~249-3489
+294~Kite, Tom G.~R~49000~0~342 Coopers Bottom Rd.~Houston~TX~75498~256~639-8741
+24~Baer, Max~R~49000~0~5432 Burl Dr.~Houston~TX~75498~256~478-6955
+209~Green, Eric E.~R~49000~0~876 Esterville Lane~Atlanta~GA~34567~258~556-9969
+123~Dempsey, Jack D.~W~98000~0~54 Harry Lane~Memphis~TN~34567~423~456-9855
+388~Ogin, David S.~R~49000~0~562 Candy Ln.~Los Angeles~CA~90786~741~656-9914
+130~Dover, Ben R.~R~49000~0~43 Padder Blvd.~Phoenix~AZ~89075~985~359-9872
+368~Morgan, Gil D.~W~98000~0~456 Wax Ct.~New York~NY~09764~852~556-9858
+590~Wurtz, Xavier K.~R~49000~97890~21 1st St.~Tampa~FL~46578~897~129-9858
+471~Sandelin, Jando W.~W~98000~0~432 Country Dr.~Austin~TX~75689~655~564-5264
+174~Frost, David D.~W~98000~0~4349 Madison St.~San Diego~CA~90875~369~998-6916
+468~Salazaar, Roger S.~R~49000~0~5322 Coleman Dr.~Norfolk~VA~23456~804~789-9856
+99~Clements, Lennie T.~R~49000~0~6423 Book St.~Philadelphia~PA~12543~963~456-9855
+592~Yoshinori, Mizumaki B.~R~49000~0~32 East St.~Knoxville~TN~32567~704~129-9858
+351~McLarin, Jimmy L.~R~49000~0~543 Barmont Dr.~Philadelphia~PA~12543~963~556-9858
+505~Sneve, J.P. B.~R~49000~0~345 Flop Dr.~Radford~VA~24241~540~378-9124
+258~Irvin, Ernie E.~R~49000~0~547 Brinkman Rd.~Houston~TX~75498~256~731-9658
+59~Briggs, Danny L.~R~49000~0~34 Faring Way~Akron~OH~45623~652~412-9833
+230~Harris, Jackie M.~R~49000~0~412 Pine Dr.~Knoxville~TN~32567~704~556-9969
+273~Jimenez, Stewart K.~R~49000~0~6543 Bannister Dr.~Austin~TX~75689~655~633-9852
+142~Elkington, Steve S.~R~49000~94364~432 Sonoma Ct.~Miami~FL~45632~987~324-3135
+77~Calcaveccia, Mark C.~R~49000~0~391 Hepper Rd.~Akron~OH~45623~652~546-8799
+216~Gump, Andy S.~R~49000~0~6534 Asher St.~Norfolk~VA~23456~804~556-9969
+92~Chocolate, Kid~R~49000~0~21 Suave Rd.~Roanoke~VA~24140~541~555-1212
+354~Mediate, Rocco A.~R~49000~0~532 Wesley St.~San Diego~CA~90875~369~393-9856
+18~Attell, Abe~R~49000~0~432 Healey Dr.~Norfolk~VA~23456~804~456-9856
+526~Swann, Lynn R.~W~98000~96641.72~5423 Ripley Pass~Phoenix~AZ~89075~985~914-7894
+225~Hamilton, Greg T.~W~98000~0~5432 Mason Dr.~Philadelphia~PA~12543~963~346-9856
+69~Bryant, Bart L.~R~49000~0~756 Nancy Dr.~Memphis~TN~34567~423~412-9833
+430~Pupunu, Alfred A.~R~49000~108100~6642 Goggle Rd.~Miami~FL~45632~987~456-9854
+105~Conn, Billy~W~358000~0~Rt. 5 Box 5432~Memphis~TN~34567~423~555-1212
+463~Ryan, Tommy E.~W~98000~0~5432 Pulaski Dr.~St. Louis~MO~56433~147~789-9856
+133~Driscoll, Jim M.~W~98000~191901.64~42 Main Street~Dallas~TX~76452~456~559-9877
+44~Blake, Jeff D.~R~49000~0~541 Heth St.~New York~NY~09764~852~452-6969
+457~Rosnbloom, Maxie~R~49000~0~532 Ridge Road~Dallas~TX~76452~456~564-5264
+452~Rodriguez, Anthony D.~R~69000~0~343 Cumber Rd.~Roanoke~VA~24140~541~789-9856
+374~Mumper, Jeffery B.~W~98000~0~324 Beast Blvd.~Knoxville~TN~32567~704~393-9856
+247~Holmes, Larry~R~49000~0~345 Puckett St.~St. Louis~MO~56433~147~346-9856
+129~Dougharty, Ed S.~R~49000~0~412 Pinewood Dr.~Austin~TX~75689~655~654-9899
+89~Chandler, Chris C.~R~49000~0~54 Carson Way~Tampa~FL~46578~897~546-8799
+60~Brisky, Mike D.~R~49000~0~542 Wilson Dr.~Houston~TX~75498~256~412-9833
+96~Clarke, Darren W.~W~98000~0~5432 Helton Dr.~Houston~TX~75498~256~555-1212
+392~Ozaki, Jumbo D.~W~98000~0~6787 Honey Dr.~Knoxville~TN~32567~704~556-9858
+552~Villa, Pancho B.~R~49000~0~975 Hooper Ln.~San Diego~CA~90875~369~387-9147
+283~Justice, Greg S.~W~98000~0~4398 Parker Dr., Apt 3T~St. Louis~MO~56433~147~633-9852
+205~Grady, Wayne O.~R~49000~0~8756 Woodlawn Dr.~Dallas~TX~76452~456~445-9966
+553~Visnic, Pete E.~R~49000~0~879 Ehergott St.~St. Louis~MO~56433~147~387-9147
+278~Johnson, Randy R.~W~98000~0~444 Fly St.~New York~NY~09764~852~633-9852
+114~Cunningham, Charles C.~R~49000~0~543 Martinsville Rd.~Houston~TX~75498~256~456-9855
+305~Lee, Erika E.~W~98000~0~P.O. Box 9243~Tampa~FL~46578~897~639-8741
+327~Lyle, Sandy U.~R~49000~0~65 Rook Blvd.~Austin~TX~75689~655~945-9855
+556~Waits, Glen S.~R~49000~0~4321 Cicley Pl.~Miami~FL~45632~987~354-4652
+186~Gavilan, Kelly I.~R~49000~0~4321 Alexander St.~Houston~TX~75498~256~964-9855
+383~Nicklas, Jack P.~R~149000~0~23545 Cumberland St.~Akron~OH~45623~652~656-9914
+132~Drayton, Troy D.~R~49000~0~456 West Brook Dr.~Houston~TX~75498~256~654-9899
+399~Paulson, Dennis L.~R~49000~0~4234 E. Main St.~Austin~TX~75689~655~445-1236
+194~Gilford, Lake D.~R~49000~0~544 Pucker Dr.~Knoxville~TN~32567~704~998-6916
+197~Glavine, Tom J.~R~49000~0~6534 Brickyard Rd.~Tampa~FL~46578~897~964-9855
+297~Kott, Greg S.~R~49000~0~235 Paw Ln~Philadelphia~PA~12543~963~423-9112
+203~Goydos, Paul O.~W~258000~0~6642 Goggle Rd.~Akron~OH~45623~652~556-9969
+400~Peagram, Eric D.~R~49000~0~987 Apache Pl~Phoenix~AZ~89075~985~789-9854
+574~White, Lorenzo T.~W~98000~0~9778 Norris Dr.~Miami~FL~45632~987~248-1574
+26~Bahr, Matt M.~R~49000~0~391 Hepplinger Rd.~New York~NY~09764~852~478-6955
+82~Carter, Chris E.~R~49000~0~4560 Hoover Dr.~Los Angeles~CA~90786~741~546-8799
+431~Purtzer, tom S.~R~49000~0~53289 W. Main St.~Tampa~FL~46578~897~442-9852
+136~Duran, Roberto D.~W~98000~94597.44~599 Valley Dr.~Los Angeles~CA~90786~741~654-9899
+567~Wayhan, Vic D.~R~49000~0~576 Butterworth Rd.~Philadelphia~PA~12543~963~568-9632
+449~Roberts, Loren S.~R~49000~0~32 Wilson St.~Tampa~FL~46578~897~457-9173
+565~Watters, Ricky R.~R~49000~0~5234 Singer St.~Dallas~TX~76452~456~129-9858
+271~Jefferies, Haywood D.~R~49000~0~9887 Booker Dr.~Radford~VA~24241~540~639-8741
+48~Bledsoe, Tom T.~R~49000~287417~543 Parkerburg Rd.~San Diego~CA~90875~369~452-6969
+296~Knox, Ken S.~W~98000~0~5432 W. Main St.~New York~NY~09764~852~639-8741
+455~Rose, Axle R.~R~49000~0~432 Skinner Dr.~Akron~OH~45623~652~789-9856
+257~Ice, Gary R.~R~49000~512783~235 Paw Ln~Akron~OH~45623~652~731-9658
+481~Sharpe, Shannon S.~R~49000~0~6542 Video Dr.~St. Louis~MO~56433~147~564-5264
+208~Green, Dennis D.~R~49000~0~3456 RobinHood Dr.~Los Angeles~CA~90786~741~556-9969
+259~Irving, Michael D.~R~49000~0~5423 N. Main St.~Dallas~TX~76452~456~633-9852
+493~Skywalker, Luke L.~R~49000~0~5322 Masters Ln.~Dallas~TX~76452~456~249-3489
+517~Stoffel, Michelle L.~R~49000~0~765 Lee St.~St. Louis~MO~56433~147~249-3489
+179~Gallagher, Jim G.~W~98000~0~694-B Hindenburg Dr.~Tampa~FL~46578~897~998-6916
+57~Bradley, Milton D.~R~49000~0~698 Wild Turkey Blvd.~Austin~TX~75689~655~412-9833
+409~Perry, Craig D.~R~49000~0~543 Highway 34~St. Louis~MO~56433~147~445-1236
+157~Fehr, Rick E.~W~98000~0~342 Late St.~St. Louis~MO~56433~147~559-9877
+5~Ali, Muhammad~W~98000~0~3091 Westover Drive~Akron~OH~45623~652~456-9856
+35~Bean, Andy E.~R~49000~0~543 Larson Way~Tampa~FL~46578~897~478-6955
+64~Brooks. Bill B.~W~98000~0~9881 Hinkley Dr.~Los Angeles~CA~90786~741~412-9833
+264~Jabbar, Abdul-Kareem~R~49000~0~544 E. 34 St.~San Diego~CA~90875~369~731-9658
+235~Hebert, Bobby M.~R~49000~0~544 E. 34 St.~Radford~VA~24241~540~731-9658
+500~Smith, Richard B.~W~98000~0~54 Cook St.~Knoxville~TN~32567~704~564-5264
+533~Thoma, Methar M.~R~49000~0~435 Tucker Rd.~Atlanta~GA~34567~258~378-9124
+310~Leonard, Sugar Ray~R~49000~0~5643 Dyer St.~Phoenix~AZ~89075~985~289-9854
+438~Reese, Don D.~R~49000~0~3421 Curtis Pl.~Houston~TX~75498~256~457-9173
+350~McGriff, Fred, F.~W~98000~0~P.O. Box 912~New York~NY~09764~852~393-9856
+78~Cambell, Scott S.~R~49000~0~42 Main Street~Houston~TX~75498~256~546-8799
+63~Brodia, Steve R.~R~49000~0~54 Rt. 43 E.~Philadelphia~PA~12543~963~546-8799
+115~Cunningham, Kenny T.~R~49000~0~4321 Beavis Dr.~Dallas~TX~76452~456~654-9899
+122~Delsing, Mike L.~R~49000~0~5423 Ridgemont Dr.~Knoxville~TN~32567~704~555-1212
+91~Chase, Gary W.~R~49000~0~432 Duck Dr.~Radford~VA~24241~540~456-9855
+298~Lambert, John F.~W~98000~0~4509 Westwood Ct.~Los Angeles~CA~90786~741~639-8741
+11~Anderson, Gary F.~R~49000~159892~5432 King St.~Atlanta~GA~34567~258~456-9856
+202~Gotsche, Steve K.~R~49000~0~6543 Church Ct.~Phoenix~AZ~89075~985~789-9854
+173~Fried, Alan A.~R~49000~633722~432 Strawberry Hill Rd.~Atlanta~GA~34567~258~998-6916
+113~Crenshaw, Ben D.~R~49000~0~432 Pucket St.~Akron~OH~45623~652~456-9855
+421~Portugal, Ron S.~R~49000~0~54 Fairfax Way~Dallas~TX~76452~456~457-9173
+263~Ito, Lance S.~R~49000~0~5423 Madman Ct.~Atlanta~GA~34567~258~731-9658
+475~Sauers, Gene M.~R~49000~84726~6543 Bannister Dr.~Dallas~TX~76452~456~239-0478
+95~Clark, Marsha A.~W~98000~0~65 Hoosier Ln~Akron~OH~45623~652~555-1212
+586~Woodpecker, Woody T.~R~49000~0~9852 Flubber Rd.~St. Louis~MO~56433~147~129-9858
+112~Couples, Freddy D.~R~49000~0~5343 Anaconda Pl.~Phoenix~AZ~89075~985~147-9245
+38~Belle, Albert Y.~R~49000~0~5234 Woolley Dr.~Roanoke~VA~24140~541~452-6969
+370~Morris, Hal L.~W~98000~0~532 Ridge Road~Los Angeles~CA~90786~741~556-9858
+7~Allen, Woody W.~R~49000~0~391 Heppler Rd.~Dallas~TX~76452~456~478-6955
+341~McCallister, Blaine D.~R~49000~0~4321 Alexander St.~Tampa~FL~46578~897~945-9855
+54~Bottomley, Steven F.~R~49000~0~342 Bunker St.~Norfolk~VA~23456~804~452-6969
+445~Rintoul, Steve P.~W~98000~0~542 Wilson Dr.~St. Louis~MO~56433~147~457-9173
+72~Burke, Patrick S.~R~49000~0~391 Hepper Rd.~Norfolk~VA~23456~804~412-9833
+148~Estes, Bob B.~R~49000~0~4312 Institute St.~Phoenix~AZ~89075~985~989-5456
+496~Smith, Jane C.~R~79000~0~P.O. Box 562~Los Angeles~CA~90786~741~239-0478
+479~Senior, Peter U.~R~49000~546186~391 Hepton Rd.~Atlanta~GA~34567~258~564-5264
+231~Hart, Jason S.~W~98000~0~Rt. 2 Box 54323~Memphis~TN~34567~423~445-9966
+198~Glover, Andrew S.~W~98000~0~9334 W. Derrek Dr.~Norfolk~VA~23456~804~964-9855
+304~Laviola, Luann K.~R~49000~0~8764 Chevy Pl.~Miami~FL~45632~987~214-9841
+184~Garcia, Joel D.~R~49000~0~444 Fly St.~Phoenix~AZ~89075~985~423-9144
+147~Engleberg, Jason S.~R~49000~38336~5641 Conley~Austin~TX~75689~655~559-9877
+555~Wadkins, Lanny P.~R~49000~560457~2385 Cumberland St.~Memphis~TN~34567~423~387-9147
+108~Cook, John B.~R~49000~0~6582 Robbins Ln.~Norfolk~VA~23456~804~555-1212
+134~Dundee, Angelo A.~W~98000~0~Rt. 4 Box 32~New York~NY~09764~852~654-9899
+440~Reveiz, Fuad S.~R~49000~407771~5423 Lebasa Ln.~New York~NY~09764~852~457-9173
+211~Green, Ken S.~R~49000~0~6582 Robbins Ln.~St. Louis~MO~56433~147~556-9969
+217~Gutzwiller, John G.~W~98000~0~7434 Chuckles Dr.~Radford~VA~24241~540~346-9856
+433~Ramirez, Jose K.~W~98000~258253.52~542 Hill St.~Radford~VA~24241~540~789-9856
+280~Jones, Chipper W.~W~98000~0~543 Gap Road~Los Angeles~CA~90786~741~633-9852
+337~Mast, Dick F.~R~49000~0~5432 Kingston Pike~St. Louis~MO~56433~147~945-9855
+161~Flori, Ed I.~R~49000~0~345 Flop Dr.~Tampa~FL~46578~897~559-9877
+436~Reagan, Ronald D.~W~98000~0~544 E. 34 St.~Phoenix~AZ~89075~985~178-9856
+358~Miller, Anthony D.~R~49000~0~456 Street I~Miami~FL~45632~987~246-4555
+242~Hisaaki, Sasaki~R~49000~0~342 Late St.~New York~NY~09764~852~346-9856
+398~Paulson, Carl K.~R~49000~0~653 Hinker Dr.~Roanoke~VA~24140~541~445-1236
+110~Corbett, Jim~W~98000~0~432 Coper Ln.~Roanoke~VA~24140~541~456-9855
+364~Moon, Warren D.~R~59000~195398~498 KennyG Ln~Phoenix~AZ~89075~985~787-9854
+307~Lemke, Mark O.~W~98000~0~9014 Clinton St.~Radford~VA~24241~540~945-9855
+295~Knowles, Bob F.~W~98000~268472.96~3234 Peters Drive~Dallas~TX~76452~456~423-9112
+213~Griffith, Emile E.~W~98000~0~6534 Asher St.~Memphis~TN~34567~423~556-9969
+126~Dimarco, Chris K.~R~49000~0~543 Canton Dr.~Norfolk~VA~23456~804~456-9855
+135~Dunlap, Scott L.~W~98000~0~891 Conker Way~Philadelphia~PA~12543~963~559-9877
+378~Napoles, Jose~W~98000~0~321 Hello Ln.~Norfolk~VA~23456~804~556-9858
+274~Jofre, Eder S.~W~98000~0~5432 King St.~Phoenix~AZ~89075~985~314-9551
+65~Brophy, Susie D.~R~49000~0~423 Vicars Rd.~Atlanta~GA~34567~258~412-9833
+46~Blauser, Jeff J.~R~49000~0~4231 Sinker Bypass Rd.~Los Angeles~CA~90786~741~452-6969
+241~Hilbig, Bryan K.~R~49000~0~325 Peters Drive~Dallas~TX~76452~456~731-9658
+587~Woods, Steve D.~R~49000~541647~5633 Carpenter St.~Knoxville~TN~32567~704~498-3719
+456~Rose, Clarence R.~R~49000~0~4509 Westwood Ct.~Houston~TX~75498~256~789-9856
+345~McElhaney, Jennifer D.~W~98000~0~556 Rudolph Dr.~Austin~TX~75689~655~393-9856
+577~Williams, Donald D.~R~49000~0~543 Burlington~Phoenix~AZ~89075~985~789-9988
+511~Standly, Mike S.~R~49000~103102~455 Mactus Rd.~Dallas~TX~76452~456~378-9124
+121~Dawson, Marco D.~R~49000~0~567 Orange St.~St. Louis~MO~56433~147~456-9855
+420~Porter, Sid S.~W~98000~0~433 Buckshot Dr.~Houston~TX~75498~256~442-9852
+275~Johanison, Eric S.~R~49000~0~321 Hello Ln.~Akron~OH~45623~652~633-9852
+176~Fuqua, Frenchy A.~R~49000~21322~P.O. Box 410~Knoxville~TN~32567~704~559-9877
+45~Blake, Jon D.~R~49000~0~321 Tucker Dr.~Philadelphia~PA~12543~963~412-9833
+459~Ross, James B.~W~98000~0~4532 Peacock Ln.~Philadelphia~PA~12543~963~564-5264
+288~Kelly, Jerry D.~R~49000~0~432 Futon St.~Norfolk~VA~23456~804~633-9852
+306~Lehman, Thomas T.~R~49000~0~391 Hepton Rd.~Norfolk~VA~23456~804~639-8741
+244~Hoch, Scott T.~R~49000~0~3234 Peters Drive~Los Angeles~CA~90786~741~346-9856
+518~Stokes, J.J. B.~W~98000~0~5687 Chilli Dr.~Knoxville~TN~32567~704~239-0478
+30~Bando, Randall W.~R~49000~0~875 Cyclone Blvd.~San Diego~CA~90875~369~478-6955
+559~Waldork, Duffy D.~R~49000~0~232 Eastwood Ln.~Radford~VA~24241~540~129-9858
+181~Gamez, Roberto D.~R~49000~0~5645 Michael Dr.~Radford~VA~24241~540~556-9969
+534~Thomas, Thurman E.~W~98000~0~4234 E. Main St.~San Diego~CA~90875~369~378-9124
+447~Rison, Andre A.~W~98000~0~4231 Dock Rd.~Memphis~TN~34567~423~457-9173
+588~Woodson, Rod D.~R~49000~0~21 1st St.~Memphis~TN~34567~423~129-9858
+139~Edwards, David S.~R~49000~0~543 Martinsville Rd.~St. Louis~MO~56433~147~654-9899
+390~Olazabel, Jose M.~R~49000~0~544 Bop Dr.~San Diego~CA~90875~369~656-9914
+154~Favre, Brett E.~W~98000~0~864 Derrick Dr.~Los Angeles~CA~90786~741~559-9877
+554~Wadkins, Bobby S.~R~49000~223126~753 E. 9th St.~Knoxville~TN~32567~704~378-9124
+412~Pickens, Carl G.~R~49000~0~4311 Klunker Dr.~Miami~FL~45632~987~456-7893
+107~Conway, Curtis S.~R~49000~321052~6743 Kingston St.~Tampa~FL~46578~897~555-1212
+252~Hughes, Ralph W.~W~98000~0~5908 Hinkler Blvd.~Norfolk~VA~23456~804~346-9856
+422~Powell, Rebecca D.~R~49000~0~455 Mactus Rd.~New York~NY~09764~852~442-9852
+137~Duval, Davis D.~R~49000~0~9909 Buckshot Pl.~Atlanta~GA~34567~258~654-9899
+357~Mickelson, Phil L.~R~49000~0~2807 Pollock Dr.~Memphis~TN~34567~423~393-9856
+448~Rivera, Raymundo K.~R~49000~0~766 Hoosier Ct.~Miami~FL~45632~987~456-7874
+371~Morse, Jim F.~R~49000~0~5423 Stucker Dr.~Atlanta~GA~34567~258~556-9858
+585~Wood, Willie W.~W~98000~0~879 Ehergott St.~San Diego~CA~90875~369~129-9858
+9~Alomar, Roberto R.~R~49000~0~423 Vicars Rd.~Philadelphia~PA~12543~963~478-6955
+175~Funk, Fred D.~R~49000~0~54 Fairfax Way~St. Louis~MO~56433~147~998-6916
+70~Bryant, Brad D.~R~49000~0~5432 Bologna Blvd.~Miami~FL~45632~987~345-1230
+425~Presutti, Rudy K.~R~49000~0~5423 Stinker Dr.~Atlanta~GA~34567~258~442-9852
+442~Rice, Jerry J.~R~49000~0~290 Hucker Rd.~Los Angeles~CA~90786~741~457-9173
+462~Ryan, Nolan G.~R~49000~23524~321 Top Way~San Diego~CA~90875~369~789-9856
+111~Cotner, Kelly L.~R~49000~0~5435 Highway 69~Austin~TX~75689~655~456-9855
+551~Verplank, Scott E.~R~49000~0~321 Honkey Ct.~Atlanta~GA~34567~258~387-9147
+23~Azinger, Paul S.~W~98000~0~546 Westbrook Dr.~Akron~OH~45623~652~478-6955
+476~Schourek, Pete A.~W~98000~0~4312 Institute St.~New York~NY~09764~852~564-5264
+522~Sugar, Bert B.~R~49000~0~432 Hello Dr.~Norfolk~VA~23456~804~249-3489
+311~Levi, Wayne L.~W~98000~0~435 Tucker Rd.~Akron~OH~45623~652~423-9112
+131~Dowling, Swanson G.~R~49000~0~432 Cowboy Way~Akron~OH~45623~652~654-9899
+478~Schwartz, Richard R.~W~98000~602134.54~391 Heppler Rd.~Los Angeles~CA~90786~741~564-5264
+499~Smith, Mike O.~R~49000~0~987 Audi Way~St. Louis~MO~56433~147~239-0478
+255~Humphries, Stan M.~R~49000~0~542 Burlington St.~Austin~TX~75689~655~731-9658
+238~Henninger, Dan S.~R~49000~0~342 Coopers Bottom Rd.~Phoenix~AZ~89075~985~124-9865
+214~Grimes, Eber S.~R~49000~0~5633 Carpenter St.~Miami~FL~45632~987~654-1365
+318~Lohr, Robert M.~R~49000~32024~432 Coper Ln.~San Diego~CA~90875~369~423-9112
+158~Ferrotte, Gus D.~R~49000~0~5323 Poker Dr.~Knoxville~TN~32567~704~654-9899
+451~Rocca, Constantino D.~W~98000~0~654 Skinny Ln.~Radford~VA~24241~540~564-5264
+292~Ketchal, Stanley S.~R~49000~0~54 N. 234 St.~Phoenix~AZ~89075~985~249-9833
+437~Reed, Andre S.~R~49000~0~456 Cactus Blvd~Akron~OH~45623~652~457-9173
+423~Powers, Greg L.~R~49000~0~32 East St.~Philadelphia~PA~12543~963~457-9173
+138~Earnheardt, Dale A.~R~49000~0~2341 Heighton Dr.~San Diego~CA~90875~369~654-9899
+347~McFarland, Packey~W~98000~0~325 Peters Ferry Dr.~Akron~OH~45623~652~393-9856
+417~Pongsakornkul, Kris G.~R~49000~0~P.O. Box 821~Austin~TX~75689~655~442-9852
+363~Monzon, Carlos~R~49000~950415~8756 Bacon Ln.~Austin~TX~75689~655~556-9858
+237~Henke, Nolan S.~R~239000~0~6543 Lee Ln.~Austin~TX~75689~655~346-9856
+384~Nobilo, Norm L.~R~49000~0~4532 Madison Heights~Houston~TX~75498~256~656-9914
+204~Grace, Royce D.~W~98000~0~9876 Fonga Ln.~Houston~TX~75498~256~556-9969
+86~Cerdan, Carcel S.~R~49000~0~6743 Kingston St.~Knoxville~TN~32567~704~412-9833
+17~Arthur, David C.~R~49000~0~6909 Cookie St.~Tampa~FL~46578~897~456-9856
+74~Burnell, Simon F.~R~49000~0~541 Heth St.~Roanoke~VA~24140~541~546-8799
+125~Dieringer, Rick N.~W~98000~451215.52~654 Misty Bottom Dr.~Tampa~FL~46578~897~456-9855
+80~Carnevale, Allan K.~R~49000~0~5498 Ashton Dr.~New York~NY~09764~852~546-8799
+472~Sanders, Barry D.~W~98000~24627.4~4332 Madison St.~Phoenix~AZ~89075~985~456-4533
+119~Davis, Mark M.~R~49000~250402~599 Sax Ct.~Atlanta~GA~34567~258~456-9855
+299~LaMotta, Jake~R~49000~171531~764 Gilbert Dr.~Atlanta~GA~34567~258~639-8741
+464~Rymer, Scott S.~R~49000~402139~654 Sucker Dr.~Knoxville~TN~32567~704~457-9173
+467~Salaam, Rashaam F.~W~98000~0~432 Faith Rd.~Tampa~FL~46578~897~789-9856
+243~Hoard, Leroy G.~R~49000~126729~324 Beast Blvd.~Philadelphia~PA~12543~963~731-9658
+160~Fleisher, Bruce S.~R~49000~0~870 Snooker Dr.~Miami~FL~45632~987~452-6549
+387~O'Meara, Mark M.~R~49000~0~321 Honkey Ct.~Philadelphia~PA~12543~963~445-1236
+93~Christian, Steve L.~R~49000~0~54 Harry Lane~Austin~TX~75689~655~555-1212
+582~Wisbe, Mark S.~R~49000~0~9908 Elanor St.~Philadelphia~PA~12543~963~454-9822
+79~Canzoneri, Jose S.~W~98000~0~54 Carson Way~Dallas~TX~76452~456~555-1212
+39~Benitez, Wilfred~R~49000~0~432 Duck Dr.~Austin~TX~75689~655~452-6969
+328~Magee, Andrew S.~R~49000~0~54 Cook St.~Phoenix~AZ~89075~985~478-9114
+519~Stonebreaker, Mike B.~R~49000~0~542 Fairfax Dr.~Memphis~TN~34567~423~249-3489
+441~Rhett, Erict S.~R~49000~0~9887 Booker Dr.~Philadelphia~PA~12543~963~789-9856
+541~Trombetta, Nick K.~R~49000~0~6579 Newman St.~Radford~VA~24241~540~498-3719
+224~Ham, Jack E.~W~98000~0~456 Cactus Blvd~New York~NY~09764~852~445-9966
+514~Stewart, Ray L.~W~98000~89430.88~556 Rudolph Dr.~Los Angeles~CA~90786~741~249-3489
+473~Sanders, Dion N.~R~49000~0~54 Fairfax Way~Akron~OH~45623~652~564-5264
+8~Allenby, Robert S.~R~49000~0~65388 Clarkston Rd.~New York~NY~09764~852~456-9856
+6~Allen, Terry A.~W~98000~0~544 E. 34 St.~Houston~TX~75498~256~456-9856
+97~Clay, Casius C.~W~98000~0~65 Indian Rd.~Dallas~TX~76452~456~456-9855
+361~Mize, Larry D.~R~49000~517936~655 University Pky.~Radford~VA~24241~540~656-9914
+545~Tway, Bob B.~R~49000~0~253 Paw Ln.~Akron~OH~45623~652~387-9147
+397~Pate, Stephen L.~R~49000~0~321 Collin Rd.~Radford~VA~24241~540~442-9852
+207~Greb, Harry J.~R~49000~0~654 Moffett Dr.~Philadelphia~PA~12543~963~445-9966
+143~Ellard, Henry D.~R~49000~0~45 Brick Ln~Tampa~FL~46578~897~654-9899
+159~Fitzsimmons, Roger~R~49000~0~9754 Epson Dr.~Memphis~TN~34567~423~559-9877
+382~Newman, Alfred E.~W~98000~0~433 Kerry Dr.~Phoenix~AZ~89075~985~147-9854
+321~Long, Larry L.~R~49000~0~32 West 4th St.~Memphis~TN~34567~423~423-9112
+569~Welch, Donald P.~R~49000~0~654 Collins Rd.~Atlanta~GA~34567~258~498-3719
+509~Stacey, David R.~R~49000~0~6423 Ruby Rd.~Akron~OH~45623~652~249-3489
+469~Sampras, Pete T.~W~98000~0~899 Rosemont Dr.~Radford~VA~24241~540~239-0478
+536~Thompson, Ty B.~R~49000~0~543 Conley St.~Knoxville~TN~32567~704~249-3489
+156~Feherty, David P.~W~98000~45464.16~5321 Church St.~San Diego~CA~90875~369~559-9877
+426~Price, Nick K.~R~49000~0~8567 Reed Pl.~San Diego~CA~90875~369~442-9852
+550~Vaughan, Bruce L.~R~49000~0~432 Healey Dr.~Los Angeles~CA~90786~741~387-9147
+20~Austin, Brian B.~W~98000~0~54 Parker Dr.~Roanoke~VA~24140~541~478-6955
+323~Loughran, Tommy E.~R~49000~490554~542 Burlington St.~Tampa~FL~46578~897~423-9112
+90~Charles, Ezzard~W~98000~0~678 Hucker St.~Norfolk~VA~23456~804~546-8799
+428~Pruitt, Jeff J.~R~49000~0~577 Bug Dr.~Knoxville~TN~32567~704~445-1236
+293~Kirby, Terry T.~R~49000~0~432 Coper Ln.~Akron~OH~45623~652~639-8741
+549~Uresti, Omar K.~R~49000~0~3201 Porker Dr.~Philadelphia~PA~12543~963~498-3719
+492~Singh, Vijay J.~R~49000~0~P.O. Box 264~Houston~TX~75498~256~239-0478
+424~Presley, William S.~W~98000~161709.8~654 Hucker Way~Los Angeles~CA~90786~741~442-9852
+302~Langer, Bernhard D.~R~49000~0~543 Burlington~Knoxville~TN~32567~704~633-9852
+512~Stankowski, Keith S.~R~49000~0~7654 Lambert Ct.~New York~NY~09764~852~249-3489
+50~Boni, Eric~W~98000~0~Rt. 3 Box 989~Knoxville~TN~32567~704~478-6955
+206~Graziano, Rocky~W~98000~0~654 Munsey Way~New York~NY~09764~852~556-9969
+589~Woosnam, Ian S.~R~49000~0~3091 Homes Ln.~Miami~FL~45632~987~524-1353
+343~McCoy, Kid~W~98000~0~5312 Library Dr.~Radford~VA~24241~540~556-9858
+188~Gelder, Euclides S.~R~49000~0~6423 Ruby Rd.~New York~NY~09764~852~964-9855
+391~Ortiz, Manuel~R~49000~111608~9821 Hunker Rd.~St. Louis~MO~56433~147~656-9914
+432~Rabbit, Jessica B.~R~49000~0~654 Tigerwood Ln.~Norfolk~VA~23456~804~442-9852
+314~Little, Larry S.~R~49000~0~654 Pucker Blvd.~New York~NY~09764~852~423-9112
+458~Ross, Barney E.~W~98000~0~9834 Honk Blvd.~New York~NY~09764~852~789-9856
+322~Longmuir, Roger D.~R~49000~0~654 Barry Lane~Miami~FL~45632~987~248-9451
+98~Clearwater, Keith P.~W~98000~0~765 Kingston Dr.~New York~NY~09764~852~555-1212
+543~Tunney, Gene S.~R~49000~0~544 Pucker Dr.~Austin~TX~75689~655~387-9147
+43~Blackmar, Phil H.~W~98000~0~412 Pine Dr.~Dallas~TX~76452~456~412-9833
+381~Nesselrode, Joseph G.~W~98000~0~532 Ely St.~Austin~TX~75689~655~656-9914
+178~Furyk, Dom D.~R~49000~0~321 Tucker Dr.~Miami~FL~45632~987~324-4654
+542~Tryba, Ted T.~W~98000~0~321 Collin Rd.~Roanoke~VA~24140~541~387-9147
+193~Gilder, Bob S.~W~98000~0~342 Skunk St.~St. Louis~MO~56433~147~964-9855
+87~Chamblee, Jasper D.~R~49000~0~5423 Ripley Pass~Memphis~TN~34567~423~546-8799
+229~Harris, Franco D.~R~49000~92398~343 Cooper St.~St. Louis~MO~56433~147~445-9966
+199~Gold, Jessica T.~R~49000~0~P.O. Box 456~Radford~VA~24241~540~445-9966
+342~McCarron, Scott F.~W~98000~0~6543 Jones Dr.~Norfolk~VA~23456~804~945-9855
+245~Hoffman, Julie H.~W~98000~0~456 Wax Ct.~Atlanta~GA~34567~258~346-9856
+504~Smith, Thomas G.~W~98000~317488.64~432 Ferris Rd.~Norfolk~VA~23456~804~239-0478
+254~Humenik, Ed J.~R~49000~0~845 Rianca Dr.~Roanoke~VA~24140~541~731-9658
+234~Hearst, Garrison G.~R~49000~193890~6579 Newman St.~Norfolk~VA~23456~804~445-9966
+369~Morris, Byron D.~R~49000~0~8589 Blakemore St.~Philadelphia~PA~12543~963~656-9914
+535~Thompson, Dicky L.~R~49000~0~Rt. 4 Box 323A~St. Louis~MO~56433~147~378-9124
+379~Nelson, Chad B.~W~98000~0~432 Cowboy Way~Radford~VA~24241~540~445-1236
+389~Ogle, Brett T.~R~109000~0~56643 Wild Truck Dr.~Atlanta~GA~34567~258~656-9914
+591~Yeager, Paul D.~R~49000~0~532 Wesley St.~Norfolk~VA~23456~804~129-9858
+49~Bley, Jay J.~R~49000~0~5312 Library Dr.~St. Louis~MO~56433~147~452-6969
+355~Metcalf, Eric E.~R~49000~0~5423 Harding Lane~St. Louis~MO~56433~147~393-9856
+144~Els, Ernie E.~R~49000~259150~290 Pucker Rd.~Norfolk~VA~23456~804~654-9899
+498~Smith, Micheal R.~W~98000~0~987 Cherokee St.~San Diego~CA~90875~369~239-0478
+76~Byrum, Curt C.~R~49000~0~5432 Burch St.~Phoenix~AZ~89075~985~147-9855
+419~Pooley, Don~R~49000~0~567 Gooley Dr.~Akron~OH~45623~652~442-9852
+365~Moore, Archie~R~49000~0~987 Mountain St.~Akron~OH~45623~652~556-9858
+405~Peoples, David G.~R~49000~0~987 Apache Pl~Philadelphia~PA~12543~963~442-9852
+386~Novachek, Jay D.~R~49000~0~342 Skunk St.~New York~NY~09764~852~656-9914
+31~Barnett, Fred D.~R~49000~0~Rt. 7 Box 34~St. Louis~MO~56433~147~478-6955
+444~Rinker, Lee S.~R~49000~0~4307 Madison St.~San Diego~CA~90875~369~457-9173
+548~Tyson, Mike S.~R~49000~0~543 Barker St.~New York~NY~09764~852~387-9147
+155~Faxon, Brad D.~R~49000~0~345 Rodeo Dr.~Atlanta~GA~34567~258~559-9877
+32~Barr, Donald S.~R~49000~0~567 Cooper Street~Knoxville~TN~32567~704~456-9856
+127~Dixon, George S.~R~49000~0~65 Bobby St.~Radford~VA~24241~540~559-9877
+228~Harper, Alvin S.~R~49000~0~746 Reed Rd.~San Diego~CA~90875~369~445-9966
+222~Halberg, Gary K.~W~98000~0~5554 Paco Rd.~Houston~TX~75498~256~445-9966
+128~Dodds, Trevor S.~R~49000~0~7643 Durango St.~Roanoke~VA~24140~541~654-9899
+544~Turner, Ted R.~W~118000~422111.48~4234 Height St.~Phoenix~AZ~89075~985~985-9665
+290~Kendall, SkipO.~R~49000~0~321 Hello Ln.~Roanoke~VA~24140~541~639-8741
+167~Foreman, George D.~R~49000~0~324 Docker Street~Akron~OH~45623~652~998-6916
+529~Taylor, John J.~R~49000~0~9864 Kleinman St.~Dallas~TX~76452~456~387-9147
+267~Jacobsen, Peter P.~R~49000~0~562 Candy Ln.~Memphis~TN~34567~423~731-9658
+446~Ripken, Cal C.~R~49000~0~321 Tucker Dr.~Knoxville~TN~32567~704~442-9852
+201~Gortnana, Marco I.~W~98000~0~654 Rock Rd.~Austin~TX~75689~655~556-9969
+52~Bonoil, Chris D.~W~98000~0~543 Pop Rd.~Miami~FL~45632~987~654-3240
+180~Galloway,Joey G.~R~49000~0~3221 Clark Blvd.~Norfolk~VA~23456~804~998-6916
+429~Pryor, Aaron~R~49000~0~23545 Cumberland St.~Memphis~TN~34567~423~442-9852
+22~Avery, Steve Y,~R~49000~0~32 Martin St.~Phoenix~AZ~89075~985~478-9632
+281~Jones, Steve D.~R~49000~0~321 Top Way~Atlanta~GA~34567~258~633-9852
+163~Floyd, Ray H.~R~49000~4130~5498 Ashton Dr.~Radford~VA~24241~540~964-9855
+528~Taylor, Harry E.~R~49000~784164~654A Coper Dr.~Houston~TX~75498~256~378-9124
+439~Reid, Reed S.~W~98000~0~764 Justin Dr.~Dallas~TX~76452~456~789-9856
+570~Welch, Zachary H.~R~49000~0~543 Hill Dr.~San Diego~CA~90875~369~498-3719
+117~Daly, John J.~R~49000~0~4334 Parker Dr., Apt 3R~Philadelphia~PA~12543~963~654-9899
+579~Williamson, Peter S.~W~98000~0~3201 Porker Dr.~Houston~TX~75498~256~129-9858
+338~Mathis, Buster F.~R~49000~0~654 Lawson Rd.~Knoxville~TN~32567~704~423-9112
+218~Haas, Jay J.~R~49000~0~432 Faith Rd.~Roanoke~VA~24140~541~445-9966
+120~Davis, Terrill T.~R~49000~0~342 Wake St.~San Diego~CA~90875~369~456-9855
+348~McGovern, Bill S.~R~49000~0~2435 Apple Rd.~Houston~TX~75498~256~393-9856
+486~Sills, Tony G.~W~98000~0~P.O. Box 451~Norfolk~VA~23456~804~564-5264
+66~Brown, Billy R.~W~98000~0~542 Fairfax Dr.~San Diego~CA~90875~369~412-9833
+576~Williams, Calvin T.~R~49000~0~4321 Hail Dr.~Norfolk~VA~23456~804~498-3719
+443~Rijo, Jose L.~W~98000~0~567 Kicker Dr.~Atlanta~GA~34567~258~457-9173
+103~Cochran, Randy A.~R~49000~0~432 Futon St.~St. Louis~MO~56433~147~555-1212
+185~Garner, Charlie C.~W~98000~0~290 Hucker Rd.~Akron~OH~45623~652~964-9855
+140~Edwards, Joel G.~W~98000~0~5436 Highway 542~Knoxville~TN~32567~704~456-9855
+100~Clink, Stewart K.~R~49000~0~6543 Clement St.~Los Angeles~CA~90786~741~555-1212
+513~Stewart, Payne P.~R~49000~135914~321 Chicken St.~Philadelphia~PA~12543~963~378-9124
+510~Stadler, Craig D.~R~49000~254439~753 Picwick Ln.~Houston~TX~75498~256~249-3489
+401~Peete, Calvin C.~R~49000~270918~2121 Madison St.~Akron~OH~45623~652~445-1236
+279~Jones, Brent D.~W~98000~0~934 Faukner Dr.~Philadelphia~PA~12543~963~639-8741
+502~Smith, Richard L.~W~98000~0~534 Burrles Dr.~Miami~FL~45632~987~654-3245
+331~Maltbie, Roger L.~R~49000~0~9908 Elanor St.~Dallas~TX~76452~456~393-9856
+239~Hernandez, Keith S.~W~98000~0~678 Hucker St.~Akron~OH~45623~652~346-9856
+540~Triplett, Kirk R.~W~98000~0~343 Cooper Street, Apt 6~Norfolk~VA~23456~804~378-9124
+42~Black, Ronnie S..~R~129000~0~4375 Parker Dr., Apt 3P~Houston~TX~75498~256~452-6969
+332~Marciano, Rocky~R~49000~466128~433 Deter Dr.~New York~NY~09764~852~945-9855
+41~Bettis, Jerome D.~W~98000~0~24 5th St.~Akron~OH~45623~652~452-6969
+146~Emmerling, Mark D.~R~49000~0~4332 Madison St.~Roanoke~VA~24140~541~559-9877
+539~Tolles, Tommy S.~R~49000~0~544 E. 34 St.~Tampa~FL~46578~897~378-9124
+33~Bates, Pete L.~R~89000~0~564 Hilton Rd~Memphis~TN~34567~423~478-6955
+362~Montgomerie, Colin D.~R~49000~0~5432 W. Main St.~Roanoke~VA~24140~541~556-9858
+47~Bledsoe, Drew C.~W~98000~0~543 Clint Blvd.~Atlanta~GA~34567~258~452-6969
+349~McGovern, Terry~W~98000~0~342 Wake Late St.~Dallas~TX~76452~456~556-9858
+250~Howard, Desmond D.~R~49000~0~544 Doppler Ct.~Miami~FL~45632~987~344-3213
+55~Bradey, Marsha R.~R~49000~0~766 Hoosier Ct.~Radford~VA~24241~540~546-8799
+324~Louis, Joe K.~W~98000~0~987 McConkel Rd.~Norfolk~VA~23456~804~423-9112
+109~Copeland, Russel D.~R~49000~0~654 Twinkie Dr.~Radford~VA~24241~540~654-9899
+277~Johnson, Joseph E.~W~98000~0~5432 Bluemont Dr.~Dallas~TX~76452~456~639-8741
+367~Moore, Kevin K.~W~98000~703602.76~544 E. 34 St.~Dallas~TX~76452~456~656-9914
+13~Angrade, Billy I.~R~49000~0~643 Walker St.~St. Louis~MO~56433~147~456-9856
+580~Wilson, John D.~R~49000~0~986 Skunk Rd.~Dallas~TX~76452~456~456-9856
+326~Lowry, Steve K.~R~49000~433394~756 Apache Dr.~Roanoke~VA~24140~541~945-9855
+219~Haas, Jerry U.~R~49000~0~5432 Station Dr.~Austin~TX~75689~655~445-9966
+236~Heinen, Mike D.~R~49000~0~5643 Sox Rd. NE~Roanoke~VA~24140~541~346-9856
+450~Robinson, Sugar R.~W~98000~0~5643 Dyer St.~Norfolk~VA~23456~804~457-9173
+562~Walton, Phillip E.~W~98000~0~4488 Back Dr.~Phoenix~AZ~89075~985~781-1555
+25~Bafffour, Richard C.~W~98000~0~656 Sandy Brook Rd.~Dallas~TX~76452~456~452-6969
+266~Jackson, Michael M.~R~49000~0~6945 Doyle Dr.~Knoxville~TN~32567~704~346-9856
+14~Arguello, Alexis~R~49000~0~4316 Parker Dr., Apt 3S~Knoxville~TN~32567~704~129-9858
+377~Nakajima, Tommy D.~R~49000~0~609 Barker St.~Tampa~FL~46578~897~556-9858
+410~Perry, Kenny K.~R~49000~0~975 Hooper Ln.~Knoxville~TN~32567~704~656-9914
+104~Coltart, Andrew T.~R~49000~0~P.O. Box 409~Knoxville~TN~32567~704~546-8799
+366~Moore, Herman H.~W~98000~0~3421 Curtis Pl.~Houston~TX~75498~256~556-9858
+594~Zoeller, Fuzzy S.~W~98000~0~567 Orange St.~Miami~FL~45632~987~324-4650
+265~Jackie, Tom K.~R~49000~0~2435 Apple Rd.~St. Louis~MO~56433~147~731-9658
+593~Young, Steve S.~R~49000~0~543 Barmont Dr.~Memphis~TN~34567~423~456-9856
+507~Springer, Darryl D.~R~49000~0~821 Forest Dr.~Austin~TX~75689~655~249-3489
+414~Player, Gary W.~W~98000~0~342 Wake Late St.~Norfolk~VA~23456~804~445-1236
+300~Lancaster, Neal D.~W~98000~0~4311 Klunker Dr.~San Diego~CA~90875~369~639-8741
+508~Springer, Mike O.~W~98000~0~345 Rodeo Dr.~Phoenix~AZ~89075~985~784-3614
+102~Coates, Ben D.~R~49000~0~5645 Michael Dr.~San Diego~CA~90875~369~555-1212
+595~Zokol, Richard O.~R~49000~0~432 Randolph St~Tampa~FL~46578~897~456-9856
+19~Aubrey, Emiyn W.~W~98000~0~6453 Dawson Way~Radford~VA~24241~540~452-6969
+12~Anderson, Morton G.~W~98000~0~433 Deter Dr.~San Diego~CA~90875~369~456-9856
+182~Gans, Joe J.~W~98000~0~6423 Book St.~Roanoke~VA~24140~541~964-9855
+172~Friar, Irving D.~R~49000~0~543 Parker Dr.~Los Angeles~CA~90786~741~998-6916
+320~Long, Aric S.~R~49000~0~342 Bunker St.~Knoxville~TN~32567~704~639-8741
+453~Roe, Mark L.~R~49000~0~9999 Bruiser Blvd.~Austin~TX~75689~655~789-9856
+329~Magertt, Jeff G.~R~49000~0~34 Free Way~Akron~OH~45623~652~945-9855
+270~Janzen, Lee L.~R~49000~0~342 Lips Ln.~Norfolk~VA~23456~804~731-9658
+575~Whittaker, Ron S.~R~49000~0~4307 Madison St.~Tampa~FL~46578~897~498-3719
+291~Keppier, Simon D.~R~49000~0~432 Sonoma Ct.~Austin~TX~75689~655~639-8741
+346~McEnroe, John S.~R~49000~0~4375 Parker Dr., Apt 3P~Phoenix~AZ~89075~985~147-9884
+578~Williams, Harvey D.~R~49000~316599~5641 Conley~Akron~OH~45623~652~129-9858
+335~Martin, Curtis G.~W~98000~0~P.O. Box 426~Atlanta~GA~34567~258~945-9855
+546~Twiggs, Greg P.~W~98000~0~421 School Dr.~Houston~TX~75498~256~387-9147
+319~Lomas, Ricardo W.~W~98000~0~432 Pucket St.~St. Louis~MO~56433~147~423-9112
+169~Frazier, Joe~R~49000~0~6543 Church Ct.~Dallas~TX~76452~456~964-9855
+15~Armour, Tommy T.~W~98000~0~4321 Beavis Dr.~Memphis~TN~34567~423~456-9856
+183~Gant, Ron L.~W~98000~0~3466 Walton St.~Austin~TX~75689~655~964-9855
+212~Green, Kevin K.~R~49000~0~32 Wilson St.~Knoxville~TN~32567~704~964-9855
+29~Ballesteros, Seve K.~R~49000~0~509 Shower Dr.~Atlanta~GA~34567~258~478-6955
+406~Pep, Willie W.~R~49000~0~6945 Doyle Dr.~Los Angeles~CA~90786~741~445-1236
+276~Johnson, Jack K.~W~98000~0~954 Honda Way~Houston~TX~75498~256~633-9852
+411~Pethel, Theodore S.~R~49000~0~5411 Dasher Dr.~Memphis~TN~34567~423~445-1236
+200~Gomez, Wilfredo~R~49000~0~9832 Chrysler Dr.~Roanoke~VA~24140~541~556-9969
+227~Hampton, Rodney R.~R~49000~0~5432 Helton Dr.~Atlanta~GA~34567~258~445-9966
+165~Ford, Cole C.~R~49000~0~342 Wake St.~Austin~TX~75689~655~998-6916
+3~Adams, Steve D.~W~98000~0~987 Woodlawn Dr.~Austin~TX~75689~655~456-9856
+484~Shuler, Heath H.~W~98000~857624.46~5234 Singer St.~Miami~FL~45632~987~246-1465
+124~Dennis, Clark G.~W~98000~0~P.O. Box 654~Miami~FL~45632~987~654-9871
+491~Sindelar, Steve D.~R~49000~0~345 Puckett St.~Akron~OH~45623~652~239-0478
+547~Twitty, Howard S.~R~49000~20820~412 Pine Heights Dr.~Dallas~TX~76452~456~498-3719
+282~Jordan, Pete S.~R~209000~0~542 Blossom Dr.~San Diego~CA~90875~369~633-9852
+284~Kaelin, Kato C.~R~49000~0~2121 Madison St.~Knoxville~TN~32567~704~731-9658
+56~Bradley, Michael D.~R~49000~0~543 Mason Dr.~Roanoke~VA~24140~541~412-9833
+393~Parnavik, Jess G.~R~49000~0~4231 Sinker Bypass Rd.~Memphis~TN~34567~423~656-9914
+226~Hammond, Dan S.~R~49000~0~546 Westbrook Dr.~Los Angeles~CA~90786~741~445-9966
+272~Jenkins, Jasper M.~R~49000~0~43 East 43 St.~Roanoke~VA~24140~541~633-9852
+170~Frazier, Joe~W~98000~0~5322 Masters Ln.~New York~NY~09764~852~998-6916
+489~Simpson, Orenthal J.~R~49000~0~32 West 4th St.~Austin~TX~75689~655~239-0478
+375~Munoz, Anthony S.~R~49000~0~4234 Height St.~Memphis~TN~34567~423~556-9858
+404~Pena, Jose J.~R~49000~0~821 Horton Dr.~New York~NY~09764~852~445-1236
+523~Sullivan, johnl. B.~R~49000~0~6743 Lawson Way~Radford~VA~24241~540~387-9147
+334~Marinovich, John J.~R~49000~0~716 Wood Ln.~Los Angeles~CA~90786~741~945-9855
+68~Bruener, Mark S.~W~98000~15917.16~564 Hilton Rd~Knoxville~TN~32567~704~452-6969
+85~Cash, Keith L.~R~49000~0~9909 Buckshot Pl.~St. Louis~MO~56433~147~546-8799
+515~Sticker, Steve D.~R~49000~0~6543 Help Lane~Atlanta~GA~34567~258~249-3489
+171~Freeman, Freddy S.~R~49000~0~654 Moffett Dr.~Philadelphia~PA~12543~963~964-9855
+402~Peete, Rodney T.~R~49000~0~412 Pinewood Dr.~Houston~TX~75498~256~445-1236
+220~Hager, Steven K.~W~98000~0~643 Walker St.~Phoenix~AZ~89075~985~412-9854
+168~Foster, Bob D.~R~49000~0~43 East 43 St.~Houston~TX~75498~256~998-6916
+531~Testeverde, Vincent V.~R~49000~0~543 West Dr.~Philadelphia~PA~12543~963~387-9147
+581~Winstead, Charles T.~W~98000~0~4278 Wilson Dr.~New York~NY~09764~852~129-9858
+301~Lane, Robbie R.~R~49000~0~543 Hill Dr.~St. Louis~MO~56433~147~639-8741
+195~Gilmore, Rob T.~W~98000~0~5322 Coleman Dr.~Memphis~TN~34567~423~964-9855
+477~Schultz, Ted G.~R~49000~0~9825 Pool Dr.~Philadelphia~PA~12543~963~239-0478
+261~Ishil, David E.~R~49000~0~8784 Dusty Rd.~Philadelphia~PA~12543~963~633-9852
+75~Burns, Bob K.~W~98000~0~321 Tucker Dr.~Austin~TX~75689~655~546-8799
+191~George, Paul I.~W~98000~0~5432 Kingston Pike~Atlanta~GA~34567~258~964-9855
+435~Rassett, Joey I.~R~49000~0~5321 Harold Ln~Austin~TX~75689~655~457-9173
+434~Ramsey, Tom G.~R~49000~0~9999 Bruiser Blvd.~Roanoke~VA~24140~541~457-9173
+67~Brown, Tim N.~R~49000~0~2121 Madison St.~St. Louis~MO~56433~147~412-9833
