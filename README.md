@@ -19,7 +19,7 @@ Santa is watching.
     - Project
     - Restrict
     - Join
-    - Hash Functions
+    - Hash Buckets
   - Tables in this project are known as Tilde Tables.
   - Writes a backup of the table to disk before printing - useful if you want to query any other tables.
 
