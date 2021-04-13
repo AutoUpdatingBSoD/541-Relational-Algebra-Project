@@ -22,7 +22,8 @@ Santa is watching.
     - Hash Buckets
   - Tables in this project are known as Tilde Tables.
   - Writes a backup of the table to disk before printing - useful if you want to query any other tables.
-
+  - This project was made public with unlisted code so that we can show our work to employers without making
+    our professor mad.
 ------------------------------------------------------------------------------------------------------------------------------------------------------
     Compile and Run
 ------------------------------------------------------------------------------------------------------------------------------------------------------
